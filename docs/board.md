@@ -1,4 +1,4 @@
-# KIT_CSK_BGT60UTR11AIP
+# KIT-CSK-BGT60TR13C   
 
 <br/>
 
@@ -9,6 +9,8 @@
     https://www.infineon.com/evaluation-board/KIT-CSK-BGT60TR13C
 
 <br/>
+<br/>
+
 
 ## ModusToolbox Tools Pack
 
